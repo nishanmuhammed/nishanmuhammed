@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nishan 👋
 
-<!--
-**nishanmuhammed/nishanmuhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Junior Frontend Developer | B.Tech CSE (AI/ML) Student  
+🌱 Learning by building real-world web projects  
+🚀 Open to freelance and internship opportunities  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🎁 Animated Birthday Website (HTML, CSS, JS)
+- 🌐 Portfolio Website (Coming soon)
+- 🧪 JavaScript Mini Projects
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/nishan-muhammed-dev
+- GitHub: https://github.com/YOUR-nishanmuhammed
