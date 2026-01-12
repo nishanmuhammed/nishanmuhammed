@@ -17,4 +17,4 @@
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/nishan-muhammed-dev
-- GitHub: https://github.com/YOUR-nishanmuhammed
+- GitHub: https://github.com/nishanmuhammed
