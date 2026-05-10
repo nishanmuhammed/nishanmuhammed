@@ -1,33 +1,65 @@
-# Hi, I'm Nishan 👋
+# 👋 Hey, I'm Nishan Muhammed
 
-👨‍💻 Junior Frontend Developer | B.Tech CSE (AI/ML) Student  
-🌱 Learning by building real-world web projects  
-🚀 Open to freelance and internship opportunities  
+🚀 Python Developer | Full Stack Developer | AI/ML Enthusiast  
+🎓 B.Tech CSE (AI/ML) Student  
+💡 Passionate about building scalable backend systems, modern web applications, and real-world software solutions.
 
----
-
-## 🛠 Tech Stack  
-- HTML5  
-- CSS3  
-- JavaScript  
-- React (Learning)  
-- Git & GitHub  
+I enjoy turning ideas into functional applications using modern technologies while continuously improving my development and problem-solving skills. Currently focused on Python development, FastAPI, AI/ML, and full-stack application development.
 
 ---
 
-## 📂 Projects  
-- 🎁 Animated Birthday Website (HTML, CSS, JS)  
-- 🌐 Portfolio Website (Coming soon)  
-- 🧪 JavaScript Mini Projects 
+# ⚡ Tech Stack
+
+## 💻 Frontend Development
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Responsive UI Design
+
+## ⚙️ Backend Development
+- Python
+- FastAPI
+- Node.js
+- REST API Development
+
+## 🗄️ Database Technologies
+- MySQL
+- MongoDB
+- SQL
+
+## 🛠️ Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Postman
+- Vercel
 
 ---
 
-## 🌐 Connect With Me  
-- LinkedIn: https://www.linkedin.com/in/nishan-muhammed-dev  
-- GitHub: https://github.com/nishanmuhammed
-- Portfolio: https://portfolio-website-two-mu-41.vercel.app 
+# 🚀 Currently Exploring
+- Artificial Intelligence & Machine Learning
+- Backend Architecture
+- API Integration
+- Modern Web Technologies
+- Scalable Application Development
 
 ---
 
-⭐ I’m continuously improving my frontend skills and building clean, responsive, user-friendly interfaces.  
-Follow my journey as I grow into a professional Frontend Developer!
+# 📌 Featured Projects
+- 🎓 Student Grade Management System
+- 🌐 Personal Portfolio Website
+- 🤖 Python & AI Mini Projects
+- ⚡ Full Stack Web Applications
+
+---
+
+# 🌍 Connect With Me
+- LinkedIn: linkedin.com/in/nishan-muhammed-dev
+- Email: thenishanmuhammed@gmail.com
+- Portfolio: portfolio-website-two-mu-41.vercel.app
+
+---
+
+⭐ Open to Internship Opportunities  
+⭐ Always Learning • Always Building • Always Growing
