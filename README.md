@@ -57,8 +57,7 @@ I enjoy turning ideas into functional applications using modern technologies whi
 # 🌍 Connect With Me
 - LinkedIn: linkedin.com/in/nishan-muhammed-dev
 - Email: thenishanmuhammed@gmail.com
-- Portfolio: portfolio-website-two-mu-41.vercel.app
-
+- Portfolio: https://nishan-portfolio-delta.vercel.app/
 ---
 
 ⭐ Open to Internship Opportunities  
